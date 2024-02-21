@@ -1,0 +1,151 @@
+{
+  "estudiantes": [
+    {
+      "id": "1",
+      "nombre": "Alina",
+      "apellido": "Guzman",
+      "edad": 30,
+      "carrera": "Ingeniria de Sistemas"
+    },
+    {
+      "id": "2",
+      "nombre": "Esteban",
+      "apellido": "Escobar",
+      "edad": 44,
+      "carrera": "Administración de Empresas"
+    },
+    {
+      "id": "3",
+      "nombre": "Rusiel",
+      "apellido": "Alvarado",
+      "edad": 47,
+      "carrera": "Administración de Empresas"
+    },
+    {
+      "id": "4",
+      "nombre": "Jhonny",
+      "apellido": "Flores",
+      "edad": 40,
+      "carrera": "Contador Público"
+    },
+    {
+      "id": "5",
+      "nombre": "Alina",
+      "apellido": "Guzman",
+      "edad": 30,
+      "carrera": "Ingeniería de Sistemas"
+    },
+    {
+      "id": "5",
+      "nombre": "Alina",
+      "apellido": "Guzman",
+      "edad": 30,
+      "carrera": "Ingeniria de Sistemas"
+    },
+    {
+      "id": "d94a",
+      "nombre": "Miguel",
+      "apellido": "Villarroel Torrico",
+      "edad": 2,
+      "carrera": "Ingenieria"
+    },
+    {
+      "nombre": "jose",
+      "apellido": "zurita",
+      "edad": 44,
+      "carrera": "auditor junior tres mas tres",
+      "id": "dd48"
+    },
+    {
+      "id": "9b47",
+      "nombre": "jose",
+      "apellido": "zurita",
+      "edad": 44,
+      "carrera": "auditor"
+    },
+    {
+      "id": "2ac9",
+      "nombre": "jose",
+      "apellido": "zurita",
+      "edad": 44,
+      "carrera": "auditor"
+    },
+    {
+      "id": "755c",
+      "nombre": "jose",
+      "apellido": "zurita",
+      "edad": 44,
+      "carrera": "auditor"
+    },
+    {
+      "id": "50d8",
+      "nombre": "jose",
+      "apellido": "zurita",
+      "edad": 44,
+      "carrera": "auditor"
+    },
+    {
+      "id": "3f38",
+      "nombre": "jose",
+      "apellido": "zurita",
+      "edad": 44,
+      "carrera": "auditor"
+    },
+    {
+      "id": "4bd8",
+      "nombre": "jose",
+      "apellido": "zurita",
+      "edad": 44,
+      "carrera": "auditor"
+    },
+    {
+      "id": "430f",
+      "nombre": "gerson",
+      "apellido": "Villarroel torrico",
+      "edad": "45",
+      "carrera": "Tecnico en sistemas"
+    },
+    {
+      "id": "d13f",
+      "nombre": "gerson",
+      "apellido": "Villarroel torrico",
+      "edad": "2",
+      "carrera": "Técnico en sistemas"
+    },
+    {
+      "id": "a827",
+      "nombre": "gerson",
+      "apellido": "Villarroel torrico",
+      "edad": "2",
+      "carrera": "Técnico en sistemas"
+    },
+    {
+      "id": "1f2c",
+      "nombre": "gerson",
+      "apellido": "Villarroel torrico",
+      "edad": "2",
+      "carrera": "Técnico en sistemas"
+    },
+    {
+      "id": "90cb",
+      "nombre": "gerson",
+      "apellido": "Villarroel torrico",
+      "edad": "2",
+      "carrera": "Técnico en sistemas"
+    },
+    {
+      "id": "95aa",
+      "nombre": "Maria Eugenia",
+      "apellido": "Ascarraga",
+      "edad": "38",
+      "carrera": "Profesora"
+    },
+    {
+      "id": "0e4d",
+      "nombre": "Gerson",
+      "apellido": "Villarroel",
+      "edad": "47",
+      "carrera": "Administrador de Empresas"
+    }
+  ]
+}
